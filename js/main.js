@@ -183,7 +183,7 @@ $(document).ready(function () {
     });
 
     $('#cv_btn').click(function() {
-       window.open('https://github.com/chanhoPark929/chanhoPark929.github.io/blob/master/resume.pdf', '_blank');
+       window.open('https://github.com/chanhoPark929/chanhoPark929.github.io/raw/master/resume.pdf', '_blank');
     });
 }); // document ready end 
 
